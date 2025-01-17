@@ -56,3 +56,42 @@ ul{
     min-height: 150px;
     
 }
+.div1 {
+    display: inline-block;
+    width: 50%;
+
+}
+.div2{
+    height: 572px;
+    width: 49%;
+    display: inline-block;
+}
+.div3 {
+
+       width: 50%;
+   
+   }
+.div4{
+
+    width: 49%;
+   }
+.content1{
+    display: flex;
+    background-color: white;
+    padding: 20px;
+   }
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+th {
+    background-color: #f4f4f4;
+}
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
